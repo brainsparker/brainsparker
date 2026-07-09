@@ -6,17 +6,6 @@ Right now my focus is split between **[YouAgent](https://github.com/brainsparker
 
 My work clusters around two ideas: making AI agents **more capable and portable**, and removing **everyday friction** from the software people use all day.
 
-```mermaid
-flowchart LR
-  Brian["Brian Sparker"]
-
-  Brian --> YouAgent["YouAgent<br/>AI-agent workflows"]
-  Brian --> Superpaste["Superpaste<br/>macOS clipboard automation"]
-
-  YouAgent --> AgentStack["LLMs<br/>Tools<br/>Memory<br/>Context<br/>MCP"]
-  Superpaste --> Productivity["Clipboard history<br/>Paste workflows<br/>Text automation"]
-```
-
 #### 🔭 Current Focus
 
 | Project | What I'm building |
