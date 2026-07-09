@@ -1,26 +1,31 @@
 ### Hi, I'm Brian 👋
 
-**Product @ [you.com](https://you.com).** I build open-source tools for the AI-agent stack — MCP infrastructure, LLM cost routing, and the small dev utilities I wish already existed.
+**Product @ [you.com](https://you.com).** I build AI-agent infrastructure, MCP tools, and sharp macOS utilities for people who want their software to feel faster, cheaper, and more useful.
 
-My work clusters around two ideas: making agents **cheaper and more portable** to run, and removing **everyday friction** for the people building them.
+Right now my focus is split between **[YouAgent](https://github.com/brainsparker/youagent)**, AI-agent tooling for useful workflows with models, tools, memory, and context, and **[Superpaste](https://github.com/brainsparker/superpaste)**, a macOS clipboard utility for faster paste workflows.
 
-#### 🔭 What I'm building now
+My work clusters around two ideas: making AI agents **more capable and portable**, and removing **everyday friction** from the software people use all day.
 
-- **[frugal](https://github.com/brainsparker/frugal)** — a cost-optimized MCP server + proxy router that picks the cheapest model and toolchain for each task. Drop-in, single Go binary.
-- **[MCP-Profiles](https://github.com/brainsparker/MCP-Profiles)** — reusable, model-independent identity for AI agents: an MCP gateway that re-exposes downstream tools per profile. Same model, different agents.
-- **[you.md](https://github.com/brainsparker/you.md)** — an open protocol for portable user preferences and context across AI-assisted dev tools.
+#### 🔭 Current Focus
+
+| Project | What I'm building |
+| --- | --- |
+| [YouAgent](https://github.com/brainsparker/youagent) | AI-agent tooling for workflows that combine LLMs, tools, memory, and user context |
+| [Superpaste](https://github.com/brainsparker/superpaste) | A macOS productivity app for smarter clipboard history, paste workflows, and text automation |
 
 #### 📦 More open source
 
 | Project | What it does |
 | --- | --- |
+| [frugal](https://github.com/brainsparker/frugal) | Cost-optimized MCP server + proxy router that picks the cheapest model and toolchain for each task |
+| [MCP-Profiles](https://github.com/brainsparker/MCP-Profiles) | Reusable, model-independent identity for AI agents via an MCP gateway |
+| [you.md](https://github.com/brainsparker/you.md) | Open protocol for portable user preferences and context across AI-assisted dev tools |
 | [PromptLens](https://github.com/brainsparker/PromptLens) | Lightweight prompt & agent evaluation tool |
-| [superpaste](https://github.com/brainsparker/superpaste) | Makes the macOS clipboard great again |
 | [free-mail-merge](https://github.com/brainsparker/free-mail-merge) | Upload a CSV → get a mail-merged PDF |
 | [skills](https://github.com/brainsparker/skills) | GTM skills for product builders — positioning, messaging & narrative |
 
 #### 🧰 Mostly working in
-`Go` · `TypeScript` · `Python` · `MCP` · LLM tooling
+`Go` · `TypeScript` · `Python` · `Swift` · `MCP` · `LLMs` · `AI agents` · `macOS apps`
 
 #### 🔗 Elsewhere
 **[sparker.co](https://sparker.co)** &nbsp;·&nbsp; **[@PeerReview](https://x.com/PeerReview)** on X &nbsp;·&nbsp; building at **[you.com](https://you.com)**
